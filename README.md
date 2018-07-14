@@ -1,2 +1,2 @@
 # PHP-Reference
-Reference for advanced PHP topics
+Reference for advanced WordPress topics
